@@ -1,2 +1,19 @@
-# Weibo
-DOMAIN,api.weibo.cn,CNsocial
+#weibo
+host,api.weibo.cn,CNsocial
+
+#zhihu
+ip-cidr,103.41.167.235/24,CNsocial
+
+#toutiao
+host-suffix,toutiaoapi.com,CNsocial
+
+#tieba
+#host,www.baidu.com,CNsocial
+
+#douyin
+host-keyword,core-c-lq,CNsocial
+host-keyword,core-lq,CNsocial
+host-keyword,normal-c-lq,CNsocial
+host-keyword,normal-lq,CNsocial
+host-keyword,search-quic-lq,CNsocial
+host-keyword,search-lq,CNsocial
