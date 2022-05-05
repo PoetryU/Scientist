@@ -1,19 +1,14 @@
 # https://cdn.jsdelivr.net/gh/DesperadoJ/Rules-for-UnblockNeteaseMusic/Clash/Proxy/NeteaseMusic.yaml
-# https://lolico.me/subscribe/Clash/config.yaml
+# https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/AgentNode/NeteaseMusicUnlock.list
+# https://raw.githubusercontent.com/nameking77/Qx/main/music/wyy.txt
 # https://t.me/joinchat/AAAAAE7rKoq4s-WIv3OfrA
 
 proxies:
   - {name: 🎧 解锁网易云音乐1, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
   - {name: 🎧 解锁网易云音乐2, server: blockmusic2.poetyin.com, port: 19951, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐3, server: LOLICO.ME, port: 443, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐4, server: AIMER.ONE, port: 23333, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 解锁网易云音乐3, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🎧 解锁网易云音乐4, server: LOLICO.ME, port: 443, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 解锁网易云音乐5, server: SALVAN.ICU, port: 19980, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐6, server: 34.92.129.82, port: 2021, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐7, server: 1.116.214.16, port: 19980, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐8, server: 43.128.37.178, port: 2021, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐9, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐10, server: 101.132.79.113, port: 23333, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐11, server: MUSIC.LOLICO.ME, port: 39000, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐12, server: MUSIC.GRIOUGES.CN, port: 39000, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐13, server: XBMMW.XYZ, port: 5691, type: ss, cipher: aes-128-gcm, password: QQ3203434182}
-  - {name: 🎧 解锁网易云音乐14, server: PROXY.PLUSMEDIA.SITE, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
+  - {name: 🎧 解锁网易云音乐6, server: 101.132.79.113, port: 23333, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 解锁网易云音乐7, server: MUSIC.LOLICO.ME, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 解锁网易云音乐8, server: MUSIC.GRIOUGES.CN, port: 39000, type: http, tls: false, skip-cert-verify: false}
