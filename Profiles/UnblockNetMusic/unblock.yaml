@@ -4,11 +4,10 @@
 # https://t.me/joinchat/AAAAAE7rKoq4s-WIv3OfrA
 
 proxies:
-  - {name: 🎧 解锁网易云音乐1, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
+  - {name: 🎧 解锁网易云音乐1, server: music.desperadoj.com, port: 30001, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
   - {name: 🎧 解锁网易云音乐2, server: blockmusic2.poetyin.com, port: 19951, type: http, country:cn CN, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐3, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_d39m}
-  - {name: 🎧 解锁网易云音乐4, server: LOLICO.ME, port: 443, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐5, server: SALVAN.ICU, port: 19980, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐6, server: 101.132.79.113, port: 23333, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐7, server: MUSIC.LOLICO.ME, port: 39000, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 解锁网易云音乐8, server: MUSIC.GRIOUGES.CN, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 解锁网易云音乐3, server: music.desperadoj.com, port: 30003, type: ss, country:cn CN, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_etg0}
+  - {name: 🎧 解锁网易云音乐4, server: SALVAN.ICU, port: 19980, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 解锁网易云音乐5, server: 119.176.253.89, port: 9080, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 解锁网易云音乐6, server: MUSIC.LOLICO.ME, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 🎧 解锁网易云音乐7, server: MUSIC.GRIOUGES.CN, port: 39000, type: http, tls: false, skip-cert-verify: false}
