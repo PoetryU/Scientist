@@ -1,5 +1,6 @@
 #weibo
 DOMAIN,api.weibo.cn,CNsocial
+DOMAIN,api.weibo.com,CNsocial
 
 #zhihu
 IP-CIDR,103.41.167.235/24,CNsocial
@@ -17,3 +18,16 @@ DOMAIN-keyword,normal-c-lq,CNsocial
 DOMAIN-keyword,normal-lq,CNsocial
 DOMAIN-keyword,search-quic-lq,CNsocial
 DOMAIN-keyword,search-lq,CNsocial
+
+#bilibili
+DOMAIN-SUFFIX,biliapi.net,CNsocial
+DOMAIN,api.bilibili.com,CNsocial
+DOMAIN,api.bilibili.tv,CNsocial
+DOMAIN,app.bilibili.com,CNsocial
+DOMAIN-SUFFIX,biliapi.com,CNsocial
+DOMAIN,api.live.bilibili.com,CNsocial
+DOMAIN,api.vc.bilibili.com,CNsocial
+DOMAIN,passport.bilibili.com,CNsocial
+DOMAIN,live-trace.bilibili.com,CNsocial
+DOMAIN,message.bilibili.com,CNsocial
+DOMAIN,cm.bilibili.com,CNsocial
