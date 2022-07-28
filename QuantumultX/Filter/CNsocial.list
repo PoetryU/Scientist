@@ -1,34 +1,33 @@
-payload:
-    #Weibo
-    DOMAIN,api.weibo.cn
-    DOMAIN,api.weibo.com
+#weibo
+DOMAIN,api.weibo.cn,CNsocial
+DOMAIN,api.weibo.com,CNsocial
 
-    #Zhihu
-    IP-CIDR,103.41.167.235/24
+#zhihu
+IP-CIDR,103.41.167.235/24,CNsocial
 
-    #toutiao
-    DOMAIN-SUFFIX,toutiaoapi.com
+#toutiao
+DOMAIN-SUFFIX,toutiaoapi.com,CNsocial
 
-    #tieba
-    #DOMAIN,www.baidu.com
+#tieba
+#DOMAIN,www.baidu.com,CNsocial
 
-    #douyin
-    DOMAIN-keyword,core-c-lq
-    DOMAIN-keyword,core-lq
-    DOMAIN-keyword,normal-c-lq
-    DOMAIN-keyword,normal-lq
-    DOMAIN-keyword,search-quic-lq
-    DOMAIN-keyword,search-lq
+#douyin
+DOMAIN-keyword,core-c-lq,CNsocial
+DOMAIN-keyword,core-lq,CNsocial
+DOMAIN-keyword,normal-c-lq,CNsocial
+DOMAIN-keyword,normal-lq,CNsocial
+DOMAIN-keyword,search-quic-lq,CNsocial
+DOMAIN-keyword,search-lq,CNsocial
 
-    #bilibili
-    DOMAIN-SUFFIX,biliapi.net
-    DOMAIN,api.bilibili.com
-    DOMAIN,api.bilibili.tv
-    DOMAIN,app.bilibili.com
-    DOMAIN-SUFFIX,biliapi.com
-    DOMAIN,api.live.bilibili.com
-    DOMAIN,api.vc.bilibili.com
-    DOMAIN,passport.bilibili.com
-    DOMAIN,live-trace.bilibili.com
-    DOMAIN,message.bilibili.com
-    DOMAIN,cm.bilibili.com
+#bilibili
+DOMAIN-SUFFIX,biliapi.net,CNsocial
+DOMAIN,api.bilibili.com,CNsocial
+DOMAIN,api.bilibili.tv,CNsocial
+DOMAIN,app.bilibili.com,CNsocial
+DOMAIN-SUFFIX,biliapi.com,CNsocial
+DOMAIN,api.live.bilibili.com,CNsocial
+DOMAIN,api.vc.bilibili.com,CNsocial
+DOMAIN,passport.bilibili.com,CNsocial
+DOMAIN,live-trace.bilibili.com,CNsocial
+DOMAIN,message.bilibili.com,CNsocial
+DOMAIN,cm.bilibili.com,CNsocial
