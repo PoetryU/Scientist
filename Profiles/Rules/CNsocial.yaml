@@ -1,34 +1,34 @@
 payload:
-    #Weibo
-    DOMAIN,api.weibo.cn
-    DOMAIN,api.weibo.com
+  #Weibo
+  - DOMAIN,api.weibo.cn
+  - DOMAIN,api.weibo.com
 
-    #Zhihu
-    IP-CIDR,103.41.167.235/24
+  #Zhihu
+  - IP-CIDR,103.41.167.235/24
 
-    #toutiao
-    DOMAIN-SUFFIX,toutiaoapi.com
+  #toutiao
+  - DOMAIN-SUFFIX,toutiaoapi.com
 
-    #tieba
-    #DOMAIN,www.baidu.com
+  #tieba
+  #- DOMAIN,www.baidu.com
 
-    #douyin
-    DOMAIN-keyword,core-c-lq
-    DOMAIN-keyword,core-lq
-    DOMAIN-keyword,normal-c-lq
-    DOMAIN-keyword,normal-lq
-    DOMAIN-keyword,search-quic-lq
-    DOMAIN-keyword,search-lq
+  #douyin
+  - DOMAIN-keyword,core-c-lq
+  - DOMAIN-keyword,core-lq
+  - DOMAIN-keyword,normal-c-lq
+  - DOMAIN-keyword,normal-lq
+  - DOMAIN-keyword,search-quic-lq
+  - DOMAIN-keyword,search-lq
 
-    #bilibili
-    DOMAIN-SUFFIX,biliapi.net
-    DOMAIN,api.bilibili.com
-    DOMAIN,api.bilibili.tv
-    DOMAIN,app.bilibili.com
-    DOMAIN-SUFFIX,biliapi.com
-    DOMAIN,api.live.bilibili.com
-    DOMAIN,api.vc.bilibili.com
-    DOMAIN,passport.bilibili.com
-    DOMAIN,live-trace.bilibili.com
-    DOMAIN,message.bilibili.com
-    DOMAIN,cm.bilibili.com
+  #bilibili
+  - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN,api.bilibili.com
+  - DOMAIN,api.bilibili.tv
+  - DOMAIN,app.bilibili.com
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN,api.live.bilibili.com
+  - DOMAIN,api.vc.bilibili.com
+  - DOMAIN,passport.bilibili.com
+  - DOMAIN,live-trace.bilibili.com
+  - DOMAIN,message.bilibili.com
+  - DOMAIN,cm.bilibili.com
