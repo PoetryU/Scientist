@@ -12,12 +12,12 @@ DOMAIN-SUFFIX,toutiaoapi.com,CNsocial
 #DOMAIN,www.baidu.com,CNsocial
 
 #douyin
-DOMAIN-keyword,core-c-lq,CNsocial
-DOMAIN-keyword,core-lq,CNsocial
-DOMAIN-keyword,normal-c-lq,CNsocial
-DOMAIN-keyword,normal-lq,CNsocial
-DOMAIN-keyword,search-quic-lq,CNsocial
-DOMAIN-keyword,search-lq,CNsocial
+DOMAIN-KEYWORD,core-c-lq,CNsocial
+DOMAIN-KEYWORD,core-lq,CNsocial
+DOMAIN-KEYWORD,normal-c-lq,CNsocial
+DOMAIN-KEYWORD,normal-lq,CNsocial
+DOMAIN-KEYWORD,search-quic-lq,CNsocial
+DOMAIN-KEYWORD,search-lq,CNsocial
 
 #bilibili
 DOMAIN-SUFFIX,biliapi.net,CNsocial

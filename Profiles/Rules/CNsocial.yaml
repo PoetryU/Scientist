@@ -13,12 +13,12 @@ payload:
   #- DOMAIN,www.baidu.com
 
   #douyin
-  - DOMAIN-keyword,core-c-lq
-  - DOMAIN-keyword,core-lq
-  - DOMAIN-keyword,normal-c-lq
-  - DOMAIN-keyword,normal-lq
-  - DOMAIN-keyword,search-quic-lq
-  - DOMAIN-keyword,search-lq
+  - DOMAIN-KEYWORD,core-c-lq
+  - DOMAIN-KEYWORD,core-lq
+  - DOMAIN-KEYWORD,normal-c-lq
+  - DOMAIN-KEYWORD,normal-lq
+  - DOMAIN-KEYWORD,search-quic-lq
+  - DOMAIN-KEYWORD,search-lq
 
   #bilibili
   - DOMAIN-SUFFIX,biliapi.net
