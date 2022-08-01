@@ -7,6 +7,11 @@
 [mitm] 
 hostname=*.music.163.com
 
+-----
+
+[rewrite_remote]
+https://raw.githubusercontent.com/PoetryU/Scientist/master/QuantumultX/rewrite/NeteaseVIP.conf, tag=网易云会员解锁, enabled=true
+
 ***********************************/
 
 
