@@ -1,0 +1,9 @@
+# Parallels Desktop
+HOST-SUFFIX, download.parallels.com.cdn.cloudflare.net, proxy
+HOST-SUFFIX, update.parallels.com.cdn.cloudflare.net, proxy
+HOST-SUFFIX, desktop.parallels.com.cdn.cloudflare.net, proxy
+HOST-SUFFIX, parallels.com, proxy
+HOST-SUFFIX, parallels.cn, proxy
+HOST-SUFFIX, pax-manager.myparallels.com, proxy
+HOST-SUFFIX, myparallels.com, proxy
+HOST-SUFFIX, my.parallels.com, proxy
