@@ -1,9 +1,9 @@
 # Parallels Desktop
-DOMIN-SUFFIX, download.parallels.com.cdn.cloudflare.net, proxy
-DOMIN-SUFFIX, update.parallels.com.cdn.cloudflare.net, proxy
-DOMIN-SUFFIX, desktop.parallels.com.cdn.cloudflare.net, proxy
-DOMIN-SUFFIX, parallels.com, proxy
-DOMIN-SUFFIX, parallels.cn, proxy
-DOMIN-SUFFIX, pax-manager.myparallels.com, proxy
-DOMIN-SUFFIX, myparallels.com, proxy
-DOMIN-SUFFIX, my.parallels.com, proxy
+DOMAIN-SUFFIX, download.parallels.com.cdn.cloudflare.net, proxy
+DOMAIN-SUFFIX, update.parallels.com.cdn.cloudflare.net, proxy
+DOMAIN-SUFFIX, desktop.parallels.com.cdn.cloudflare.net, proxy
+DOMAIN-SUFFIX, parallels.com, proxy
+DOMAIN-SUFFIX, parallels.cn, proxy
+DOMAIN-SUFFIX, pax-manager.myparallels.com, proxy
+DOMAIN-SUFFIX, myparallels.com, proxy
+DOMAIN-SUFFIX, my.parallels.com, proxy
