@@ -1,0 +1,14 @@
+#!name=[PoetryU] rewrite_remote
+#!desc=该模块用于 url rewrite_remote.
+#!url=https://raw.githubusercontent.com/PoetryU/Scientist/master/Surge/Modules/RemoteScript.sgmodule
+
+[MITM]
+hostname = %APPEND% pan.baidu.com, mp.weixin.qq.com, buy.itunes.apple.com
+
+[Script]
+# 百度网盘 解除在线视频倍率/清晰度
+BaiduCloud = http-response https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/user requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/BaiduCloud.js
+# 去微信公众号广告
+http-response ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
+# Bear熊掌记 内购解锁
+http-response http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,script-path=https://raw.githubusercontent.com/PoetryU/Scientist/master/Scripts/bear.js
