@@ -1,10 +1,9 @@
 /******************************************
  * @name i茅台预约
- * @channel https://t.me/yqc_123/
- * @feedback https://t.me/yqc_777/
  * @author 𝒀𝒖𝒉𝒆𝒏𝒈
  * @update 20231011
- * @version 1.0.1
+ * @version 1.0.2
+ * @modify 20240109 by PoetryU
  ******************************************
 ###详细见同目录README
 ```Quantumult X
@@ -27,12 +26,12 @@ const maotai = new Maotai()
 // 配置项
 var province = $.getdata('imaotai__config__province') || '' // 省份
 var city = $.getdata('imaotai__config__city') || '' // 城市
-var itemList = $.getdata('imaotai__config__itemcode')?.split(',') || ['10213', '10214'] // 预约项
+var itemList = $.getdata('imaotai__config__itemcode')?.split(',') || ['10941', '10942'] // 预约项
 var itemMap = {
-    10213: '贵州茅台酒（癸卯兔年）',
+    10941: '贵州茅台酒（甲辰龙年）',
     10056: '53%vol 500ml 茅台1935',
     2478: '贵州茅台酒（珍品）',
-    10214: '贵州茅台酒（癸卯兔年）x2'
+    10942: '贵州茅台酒（甲辰龙年）x2'
 }
 var address = $.getdata('imaotai__config__address') || '' // 详细地址
 var location = $.getdata('imaotai__config__location') || '' // 地址经纬度
