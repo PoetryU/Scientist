@@ -1,0 +1,10 @@
+payload:
+  # Parallels Desktop
+  - DOMAIN-SUFFIX, download.parallels.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX, update.parallels.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX, desktop.parallels.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX, parallels.com
+  - DOMAIN-SUFFIX, parallels.cn
+  - DOMAIN-SUFFIX, pax-manager.myparallels.com
+  - DOMAIN-SUFFIX, myparallels.com
+  - DOMAIN-SUFFIX, my.parallels.com
