@@ -145,10 +145,10 @@ function Maotai() {
                 'MT-Team-ID': ``,
                 'Content-Type': `application/json`,
                 'MT-Request-ID': `${Date.now()}${Math.floor(Math.random() * 90000 + 10000)}`,
-                'MT-APP-Version': `1.4.9`,
-                'User-Agent': `iOS;14.3;Apple;iPhone 12`, // 抓
+                'MT-APP-Version': `1.7.2`,
+                'User-Agent': `iOS;17.6;Apple;iPhone 16`, // 抓
                 'MT-K': Date.now(),
-                'MT-R': `clips_OlU6TmFRag5rCXwbNAQ/Tz1SKlN8THcecBp/HGhHdg==`,
+                'MT-R': `clips_OlU6TmFRag5rCXwbNAQ/Tz1SKlN8THcecBp/HGhHdw==`,
                 'MT-Bundle-ID': `com.moutai.mall`,
                 'MT-Network-Type': `WIFI`,
                 Accept: `*/*`,
