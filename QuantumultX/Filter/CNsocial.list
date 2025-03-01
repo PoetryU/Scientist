@@ -1,12 +1,21 @@
 #weibo
-DOMAIN,api.weibo.cn,CNsocial
-DOMAIN,api.weibo.com,CNsocial
+DOMAIN-SUFFIX,weibo.cn,CNsocial
+DOMAIN-SUFFIX,weibo.com,CNsocial
+DOMAIN-SUFFIX,weibocdn.com,CNsocial
+DOMAIN-SUFFIX,wbimg.cn,CNsocial
+DOMAIN-SUFFIX,wbimg.com,CNsocial
+DOMAIN-SUFFIX,sinaimg.cn,CNsocial
+DOMAIN-KEYWORD,weibo,CNsocial
 
 #zhihu
 IP-CIDR,103.41.167.235/24,CNsocial
 
 #toutiao
 DOMAIN-SUFFIX,toutiaoapi.com,CNsocial
+
+#xiaohongshu
+DOMAIN-SUFFIX,xiaohongshu.com,CNsocial
+DOMAIN-KEYWORD,xiaohongshu,CNsocial
 
 #tieba
 #DOMAIN,www.baidu.com,CNsocial
@@ -18,7 +27,14 @@ DOMAIN-KEYWORD,normal-c-lq,CNsocial
 DOMAIN-KEYWORD,normal-lq,CNsocial
 DOMAIN-KEYWORD,search-quic-lq,CNsocial
 DOMAIN-KEYWORD,search-lq,CNsocial
-
+DOMAIN-SUFFIX,zijieapi.com,DIRECT
+DOMAIN-SUFFIX,ecombdapi.com,DIRECT
+DOMAIN-KEYWORD,-normal-hl,CNsocial
+DOMAIN-KEYWORD,-normal-c-hl,CNsocial
+DOMAIN-KEYWORD,-core-c-hl,CNsocial
+DOMAIN-KEYWORD,-normal-lf,CNsocial
+DOMAIN-KEYWORD,-normal-c-lf,CNsocial
+DOMAIN-KEYWORD,-core-c-lf,CNsocial
 #bilibili
 DOMAIN-SUFFIX,biliapi.net,CNsocial
 DOMAIN,api.bilibili.com,CNsocial
