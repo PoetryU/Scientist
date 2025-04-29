@@ -1,10 +1,13 @@
 #!name=Github 429
 #!desc=解除 Github 429 限制
 #!date=2025-04-29
+#!author=PoetryU
+#!repo=https://github.com/PoetryU/Scientist
+#!category=PoetryU
+#!url=https://raw.githubusercontent.com/PoetryU/Scientist/master/Surge/Modules/gh429.sgmodule
 
 [Header Rewrite]
-http-request raw.githubusercontent.com header-replace Accept-Language en-us
-http-request gist.githubusercontent.com header-replace Accept-Language en-us
+http-request ^https://.*\.githubusercontent\.com\/ header-replace Accept-Language en-us
 
 [MITM]
-hostname = %APPEND% raw.githubusercontent.com, gist.githubusercontent.com
+hostname = %APPEND% *.githubusercontent.com

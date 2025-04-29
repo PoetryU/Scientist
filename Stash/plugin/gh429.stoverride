@@ -6,9 +6,7 @@ desc: |-
 http:
 
   mitm:
-    - "raw.githubusercontent.com"
-    - "gist.githubusercontent.com"
+    - "*.githubusercontent.com"
 
   header-rewrite:
-    - >-
-      (raw|gist).githubusercontent.com request-replace Accept-Language en-us
+    - ^https://.*\.githubusercontent\.com\/ request-replace Accept-Language en-us
