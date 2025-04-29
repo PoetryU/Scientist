@@ -1,6 +1,8 @@
 #!name=Github 429
 #!desc=解除 Github 429 限制
 #!date=2025-04-29
+#!author=PoetryU
+#!url=https://raw.githubusercontent.com/PoetryU/Scientist/master/QuantumultX/rewrite/gh429.snippet
 
 ^https:\/\/(raw|gist)\.githubusercontent\.com\/ url request-header (\r\n)Accept-Language:.+(\r\n) request-header $1Accept-Language: en-us$2
 
