@@ -2,8 +2,6 @@ name: |-
   Github 429
 desc: |-
   解除 Github 429 限制
-icon: |-
-  https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1027.png
 
 http:
 
