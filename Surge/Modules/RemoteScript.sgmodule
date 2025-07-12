@@ -1,5 +1,9 @@
-#!name=[PoetryU] rewrite_remote
+#!name=rewrite_remote
 #!desc=该模块用于 url rewrite_remote.
+#!date=1970-01-01
+#!author=PoetryU
+#!repo=https://github.com/PoetryU/Scientist
+#!category=PoetryU
 #!url=https://raw.githubusercontent.com/PoetryU/Scientist/master/Surge/Modules/RemoteScript.sgmodule
 
 [MITM]
